@@ -11,6 +11,6 @@ namespace LinqDemo
         public string Name { get; set; }
 
 
-       public string DemoName { get; set; }
+
     }
 }
